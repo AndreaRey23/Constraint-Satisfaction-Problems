@@ -1,0 +1,100 @@
+SCRIPT =========================================================================
+csp2 (ver. Unknown)
+Andrea Rey, Jose Lopez
+
+This is a report lab CSP
+================================================================================
+
+START ALGORITM ..... ASSIGNAMENT AREAS =========================================
+                                                       Friday 04/17/20, 17:26:21
+================================================================================
+
+BACKTRACK : 1 __________________________________________________________________
+
+.
+
+
+CSP with assignment:{'Farming': 'Mike'}
+
+Farming-> Mike, 
+
+Desing-> Emily, Tom, 
+
+Manufacturing-> Mike, James, Emily, Tom, Amy, 
+
+Packing-> Mike, James, Emily, Tom, Amy, 
+
+Trasportation-> Emily, Tom, 
+
+BACKTRACK : 2 __________________________________________________________________
+
+.
+
+
+CSP with assignment:{'Farming': 'Mike', 'Desing': 'Emily'}
+
+Farming-> Mike, 
+
+Desing-> Emily, 
+
+Manufacturing-> James, 
+
+Packing-> Mike, James, Emily, Tom, Amy, 
+
+Trasportation-> Tom, 
+
+BACKTRACK : 3 __________________________________________________________________
+
+.
+
+
+CSP with assignment:{'Farming': 'Mike', 'Desing': 'Emily', 'Manufacturing': 'James'}
+
+Farming-> Mike, 
+
+Desing-> Emily, 
+
+Manufacturing-> James, 
+
+Packing-> Amy, 
+
+Trasportation-> Tom, 
+
+BACKTRACK : 4 __________________________________________________________________
+
+.
+
+
+CSP with assignment:{'Farming': 'Mike', 'Desing': 'Emily', 'Manufacturing': 'James', 'Packing': 'Amy'}
+
+Farming-> Mike, 
+
+Desing-> Emily, 
+
+Manufacturing-> James, 
+
+Packing-> Amy, 
+
+Trasportation-> Tom, 
+
+BACKTRACK : 5 __________________________________________________________________
+
+.
+
+
+CSP with assignment:{'Farming': 'Mike', 'Desing': 'Emily', 'Manufacturing': 'James', 'Packing': 'Amy', 'Trasportation': 'Tom'}
+
+Farming-> Mike, 
+
+Desing-> Emily, 
+
+Manufacturing-> James, 
+
+Packing-> Amy, 
+
+Trasportation-> Tom, 
+
+END TIME =======================================================================
+                                                       Friday 04/17/20, 17:26:21
+================================================================================
+
