@@ -1,6 +1,7 @@
 # Constraint Satisfaction Problems
 
 The problem to be solved is the assignment of positions to a group of people according to established relationships,you can the person (variables), domains(positions) and the relationships.
+
 The variables are:
 ![github-small](Imagenes/Variables.png)
 
