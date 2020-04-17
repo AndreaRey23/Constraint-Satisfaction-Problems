@@ -3,10 +3,10 @@
 The problem to be solved is the assignment of positions to a group of people according to established relationships,you can the person (variables), domains(positions) and the relationships.
 
 The variables are:
-<img src="Imagenes/Variables.png" width="100" height="100">
+<img src="Imagenes/Variables.png" width="500" height="500">
 
 The domains are:
-![github-small](Imagenes/Domains.png | width=100)
+<img src="Imagenes/Domains.png" width="500" height="500">
 
 And the positions are in two parts, the first is relationships
 ![github-small](Imagenes/AxesrVariables.png | width=100)
