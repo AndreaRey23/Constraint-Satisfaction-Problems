@@ -21,5 +21,7 @@ The user should open terminal and write:
 	$ cd /path/where/dowland/is
 	$ python3 csp2.py
 	
-The organization maked by algorithm you can see in terminal
-<img src="Imagenes/Terminal.png" width="400" height="370">
+The organization maked by algorithm you can see in terminal and save in outputCSP.log
+![github-small](Imagenes/Terminal.png)
+
+
