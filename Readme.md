@@ -12,7 +12,7 @@ And the positions are in two parts, the first is relationships
 <img src="Imagenes/AxesrVariables.png " width="300" height="250">
 
 And the second part are positions
-<img src="Imagenes/AxesrDomains.png" width="300" height="250">
+<img src="Imagenes/AxesrDomain.png" width="300" height="250">
 
 # USER MANUAL:
 
